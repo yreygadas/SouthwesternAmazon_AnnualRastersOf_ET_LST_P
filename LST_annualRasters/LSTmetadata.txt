@@ -6,7 +6,7 @@ a.	Fuente: MYD11A2.061 Aqua Land Surface Temperature and Emissivity 8-Day Global
 b.	Unidades: oC/año
 c.	Resolución espacial: 1-km 
 d.	Referencia espacial: GCS WGS84
-e.  Extensión: Acre-Brasil and Loreto, Madre de Dios, and Ucayali-Perú
+e.	Extensión: Acre-Brasil and Loreto, Madre de Dios, and Ucayali-Perú
 
 ---------------------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ a.	Source: MYD11A2.061 Aqua Land Surface Temperature and Emissivity 8-Day Global
 b.	Units: oC/year
 c.	Spatial resolution: 1-km 
 d.	Spatial reference: GCS WGS84
-e.  Extension: Acre-Brazil and Loreto, Madre de Dios, and Ucayali-Peru
+e.	Extension: Acre-Brazil and Loreto, Madre de Dios, and Ucayali-Peru
