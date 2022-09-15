@@ -1,4 +1,4 @@
-Rasters anuales de precipitación total 
+Rasters de precipitación total anual
 
 Metadatos:
 
@@ -10,7 +10,7 @@ e.	Extensión: Acre-Brasil y Loreto, Madre de Dios, y Ucayali-Perú
 
 ---------------------------------------------------------------------------------------
 
-Rasters of annual Land Surface Temperature average
+Rasters of annual precipitation total 
 
 Metadata:
 
