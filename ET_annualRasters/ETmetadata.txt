@@ -1,0 +1,21 @@
+Rasters de evapotranspiración total anual
+
+Metadatos:
+
+a.	Fuente: Operational Simplified Surface Energy Balance (SSEBop) Actual Evapotranspiration Product
+b.	Unidades: mm/año
+c.	Resolución espacial: 1-km  
+d.	Referencia espacial: GCS WGS84
+e.	Extensión: Acre-Brasil y Loreto, Madre de Dios, y Ucayali-Perú
+
+---------------------------------------------------------------------------------------
+
+Rasters of annual evapotranspiration total 
+
+Metadata:
+
+a.	Source: Operational Simplified Surface Energy Balance (SSEBop) Actual Evapotranspiration Product
+b.	Units: mm/year
+c.	Spatial resolution: 1-km 
+d.	Spatial reference: GCS WGS84
+e.	Extension: Acre-Brazil and Loreto, Madre de Dios, and Ucayali-Peru
