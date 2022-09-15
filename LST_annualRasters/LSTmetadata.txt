@@ -1,0 +1,19 @@
+Rasters anuales de Temperatura de la Superficie Terrestre promedio 
+
+Metadatos:
+
+a.	Fuente: MYD11A2.061 Aqua Land Surface Temperature and Emissivity 8-Day Global 1km
+b.	Unidades: oC/año
+c.	Resolución espacial: 1-km 
+d.	Referencia espacial: GCS WGS84
+
+---------------------------------------------------------------------------------------
+
+Rasters of annual Land Surface Temperature average
+
+Metadata:
+
+a.	Source: MYD11A2.061 Aqua Land Surface Temperature and Emissivity 8-Day Global 1km
+b.	Units: oC/year
+c.	Spatial resolution: 1-km 
+d.	Spatial reference: GCS WGS84
